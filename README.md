@@ -4,11 +4,6 @@
 <div>
   <h2>About me</h2>
   <h4>Python developer</h4>
-  
-  <ul>
-    <li>Now i learn new technologies and work at my pet-projects</li>
-  </ul>
-  
 </div>
 
 <hr/>
