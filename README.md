@@ -15,10 +15,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" height="75" weight="75"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" height="75" weight="75"/>
 </div>
-
-<hr/>
-<div>
-  <h2>My stats</h2>
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=JustWriteCode0&theme=dark&border_radius=15&background=323232)](https://git.io/streak-stats)
-</div>
